@@ -1,0 +1,12 @@
+Some mobs share the same models but differ in texture only. These mobs/models include:
+
+Infected Human:
+- Zombie
+- Husk
+
+Infected Villageroid:
+- Villager (all variants)
+- Pillager
+- Wandering Trader
+
+Please note that "Diseased Villager" (infected zombie villager) utilizes a different model than the rest of the villageroids
