@@ -1,0 +1,25 @@
+Thanks for listening to me and opening this txt file :]
+
+Some calamities are rendered procedurally, meaning they are built up of multiple models and all tacked together via code in the renderer. These calamities do not have one "full" model, but instead a bunch of isolated segments. Some calamity model folders offer a "wiki render" variant of the model featuring an attempt to stitch together the model segments into one coherent model, however the actual accuracy of these models are... not insured.
+
+Currently the calamities that utilize these multi-model make ups include:
+
+Wartorn Sieger adaptation:
+- Base model
+- "Arrows" overlay
+
+Hohlfresser:
+- Head model
+- 3 unique segment models
+- Tail model
+- (wiki render included)
+
+Grakensenker
+- Body model
+- 12 unique "segment" models
+- 2 hand models
+- foot model
+- (no wiki render as of yet)
+
+Other calamities will use this rendering format in the future, and so this .txt doc will be updated accordingly.
+
