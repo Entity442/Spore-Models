@@ -4,7 +4,7 @@ Some calamities are rendered procedurally, meaning they are built up of multiple
 
 Currently the calamities that utilize these multi-model make ups include:
 
-Wartorn Sieger adaptation:
+War-torn Sieger adaptation:
 - Base model
 - "Arrows" overlay
 
@@ -12,14 +12,24 @@ Hohlfresser:
 - Head model
 - 3 unique segment models
 - Tail model
-- (wiki render included)
+- (wiki model included)
+NOTE: due to how the rendered segments are manually scaled down via code, in order to access the proper model state seen in the wiki, you need to open the animation tab and select the relevant animation. A wiki model for the adapted variant is NOT supplied at the current moment.
 
-Grakensenker
-- Body model
+Grakensenker:
+- Body model (base, adapted)
 - 12 unique "segment" models
 - 2 hand models
 - foot model
-- (no wiki render as of yet)
+- (wiki model included)
+
+Leviathan:
+- Body model
+- Middle segment model
+- Tail model
+- Missing: Leg model, wiki model
+
+Do also note that the "costumes" some calamities don during specific dates (E.G. Xmas) are usually handled via additional model layers, akin to the War-torn Sieger adaptation arrows overlay
+(some of these costumes are included, however no guarantees are made. "Wiki" models are not supplied for these costumes)
 
 Other calamities will use this rendering format in the future, and so this .txt doc will be updated accordingly.
 
