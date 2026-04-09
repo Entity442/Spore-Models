@@ -12,7 +12,7 @@ Hohlfresser:
 - Head model
 - 3 unique segment models
 - Tail model
-- (wiki model included)
+- Wiki model
 NOTE: due to how the rendered segments are manually scaled down via code, in order to access the proper model state seen in the wiki, you need to open the animation tab and select the relevant animation. A wiki model for the adapted variant is NOT supplied at the current moment.
 
 Grakensenker:
@@ -20,7 +20,7 @@ Grakensenker:
 - 12 unique "segment" models
 - 2 hand models
 - foot model
-- (wiki model included)
+- Wiki model
 
 Leviathan:
 - Body model
@@ -28,7 +28,7 @@ Leviathan:
 - Tail model
 - 4 fin segment models
 - Foot model
-- Missing: wiki model
+- Wiki model
 
 Do also note that the "costumes" some calamities don during specific dates (E.G. Xmas) are usually handled via additional model layers, akin to the War-torn Sieger adaptation arrows overlay
 (some of these costumes are included, however no guarantees are made. "Wiki" models are not supplied for these costumes)
