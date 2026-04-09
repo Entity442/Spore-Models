@@ -12,8 +12,8 @@ Hohlfresser:
 - Head model
 - 3 unique segment models
 - Tail model
-- Wiki model
-NOTE: due to how the rendered segments are manually scaled down via code, in order to access the proper model state seen in the wiki, you need to open the animation tab and select the relevant animation. A wiki model for the adapted variant is NOT supplied at the current moment.
+- Wiki model (base, adapted)
+NOTE: due to how the rendered segments are manually scaled down via code, in order to access the proper model state seen in the wiki, you need to open the animation tab and select the relevant animation. The segments do NOT have the adapted textures included by default.
 
 Grakensenker:
 - Body model (base, adapted)
