@@ -26,7 +26,9 @@ Leviathan:
 - Body model
 - Middle segment model
 - Tail model
-- Missing: Leg model, wiki model
+- 4 fin segment models
+- Foot model
+- Missing: wiki model
 
 Do also note that the "costumes" some calamities don during specific dates (E.G. Xmas) are usually handled via additional model layers, akin to the War-torn Sieger adaptation arrows overlay
 (some of these costumes are included, however no guarantees are made. "Wiki" models are not supplied for these costumes)
