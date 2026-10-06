@@ -1,6 +1,6 @@
 Thanks for listening to me and opening this txt file :]
 
-Some calamities are rendered procedurally, meaning they are built up of multiple models and all tacked together via code in the renderer. These calamities do not have one "full" model, but instead a bunch of isolated segments. Some calamity model folders offer a "wiki render" variant of the model featuring an attempt to stitch together the model segments into one coherent model, however the actual accuracy of these models are... not insured.
+Some calamities are rendered procedurally, meaning they are built up of multiple models and all tacked together via code in the renderer. These calamities do not have one "full" model, but instead a bunch of isolated segments. Some calamity model folders offer a "wiki render" variant of the model featuring an attempt to stitch together the model segments into one coherent model, however the actual accuracy of these models are... not ensured.
 
 Currently the calamities that utilize these multi-model make ups include:
 
@@ -19,7 +19,7 @@ Grakensenker:
 - Body model (base, adapted)
 - 12 unique "segment" models
 - 2 hand models
-- foot model
+- Foot model
 - Wiki model
 
 Leviathan:
@@ -29,6 +29,16 @@ Leviathan:
 - 4 fin segment models
 - Foot model
 - Wiki model
+
+Verfalldrache:
+- Body model
+- Tar head neck segment base and middle models
+- Electric head neck segment base and middle models
+- Sonic head neck segment base and middle models
+- Tar, Electric, Sonic head models
+- 5 tail models
+- Full wiki model
+- Severed Tar, Electric, Sonic head wiki models
 
 Do also note that the "costumes" some calamities don during specific dates (E.G. Xmas) are usually handled via additional model layers, akin to the War-torn Sieger adaptation arrows overlay
 (some of these costumes are included, however no guarantees are made. "Wiki" models are not supplied for these costumes)
